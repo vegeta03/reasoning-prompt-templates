@@ -24,7 +24,7 @@ A streamlined template focusing on:
 - Step-by-step problem decomposition
 - Structured solution development
 
-[View Template](tree-of-thoughts.md)
+[View Template](tree-of-thoughts.md)  
 [Example via Perplexity AI](https://www.perplexity.ai/search/simulate-a-group-of-brilliant-g7gEvIhBS_6LiN7AgIa7NQ)
 
 ## Key Features
